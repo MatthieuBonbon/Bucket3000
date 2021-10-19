@@ -9,13 +9,13 @@ consiste à anonymiser des données par le biais de pseudo. Pour cela :
 
 
 ## Bucketisation : 
-agit sur les quasi-identifiants ainsi que sur les données sensibles en les regroupant par groupes de taille k.
+agit sur les quasi-identifiants ainsi que sur les données sensibles en les regroupant par groupes de taille k. (k-anonymisation : https://en.wikipedia.org/wiki/K-anonymity)
 
   - Nous pouvons donc associer chaque ligne de quasi-identifiants à k différentes données sensibles.
   - Une fois que ceci est fait, on prend un tableau SANS identifiants et on le sépare en deux parties.
   - On aura d'un côté les quasi-identifiants avec les différents groupes qui leur auront été attribués.
   - Et d'un autre côté, on aura les données sensibles avec les différents groupes qui leur auront également été attribués.
-  - On peut ensuite vérifier que chaque groupe de données sensibles contient l valeurs différentes grâce à la notion de diversité.
+  - On peut ensuite vérifier que chaque groupe de données sensibles contient l valeurs différentes grâce à la notion de diversité. (l-diversité : https://en.wikipedia.org/wiki/L-diversity)
 
 
 ## Algorithme unidimensionnel :
