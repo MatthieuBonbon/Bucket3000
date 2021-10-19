@@ -16,7 +16,7 @@ d'éventuels attributs non-sensibles et enfin d'une unique colonne de données s
 
 Plusieurs techniques d'anonymisation de données sont implémentées dans ce projet :
   - La pseudonymisation
-  - La bucketisation (repose sur les travaux de k-anonymisation de Mme Latanya Sweeney : https://en.wikipedia.org/wiki/Latanya_Sweeney )
+  - La bucketisation (repose sur les travaux de k-anonymisation de Mme Latanya Sweeney : https://en.wikipedia.org/wiki/Latanya_Sweeney / http://latanyasweeney.org/ )
   - Les algorithmes unidimensionnel et multi-dimensionnel
 
 Le principe de fonctionnement de ces méthodes d'anonymisation est détaillé ici : https://github.com/MatthieuBonbon/Bucket3000/blob/main/anonymisation.md
