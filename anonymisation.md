@@ -48,9 +48,10 @@ Pour commencer, on récupère un tableau à DEUX dimensions qui contient la tota
     - On aura une récurrence de l'algorithme Multidimensionnel (tableau 1).
     - Si la taille du tableau 2 est supérieur à k :
       - On aura une récurrence de l'algorithme Multidimensionnel (tableau 2). 
-  - On aura une mise entre intervalle pour le tableau 1.
-  - On aura également une mise entre intervalle pour le tableau 2.
-  - on implémente le tableau qui contient les QID anonymisés dans le tableau initial avant de le retourner.
+  - Sinon :
+    - On aura une mise entre intervalle pour le tableau 1.
+    - On aura également une mise entre intervalle pour le tableau 2.
+  - On implémente le tableau qui contient les QID anonymisés dans le tableau initial avant de le retourner.
 
   - choix d'implémentations spécifiques :
     - Nous avons décidés de choisir de manière aléatoire l'attribut pour chaque itération de l'algorithme multidimensionnel car, selon nous, cette façon de faire est assez sécurisée car on ne peut pas déterminer à l'avance quel attribut sera choisi pour être anonymisé. 
