@@ -25,7 +25,6 @@ Implémenté en Java. Code commenté au format JavaDoc qu'il est possible de gé
 
 Librairies utilisées :
   - Interface graphique créée via la librairie graphique Swing (description : https://fr.wikipedia.org/wiki/Swing_(Java) ).
-  - Prise en charge des tableurs au format .ods (Open Document) via la librairie jOpenDocument (site officiel : https://www.jopendocument.org/ ). L'installation de la librairie jOpenDocument
- est accessible ici :
+  - Prise en charge des tableurs au format .ods (Open Document) via la librairie jOpenDocument (site officiel : https://www.jopendocument.org/ ). Les spécificités de l'installation de la librairie jOpenDocument sont accessibles ici : https://github.com/MatthieuBonbon/Bucket3000/blob/main/install_jOpenDocument.md
  
  Avec le soutien de Tristan Biot & others.
