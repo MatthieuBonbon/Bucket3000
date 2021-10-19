@@ -19,7 +19,7 @@ Plusieurs techniques d'anonymisation de données sont implémentées dans ce pro
   - La bucketisation (repose sur les travaux de k-anonymisation de Mme Latanya Sweeney : https://en.wikipedia.org/wiki/Latanya_Sweeney )
   - Les algorithmes unidimensionnel et multi-dimensionnel
 
-Le principe de fonctionnement de ces méthodes d'anonymisation est détaillé ici : 
+Le principe de fonctionnement de ces méthodes d'anonymisation est détaillé ici : https://github.com/MatthieuBonbon/Bucket3000/blob/main/anonymisation.md
 
 Implémenté en Java. Code commenté au format JavaDoc qu'il est possible de générer.
 
