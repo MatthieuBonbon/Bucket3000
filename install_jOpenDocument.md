@@ -1,4 +1,4 @@
-#IMPORTANT : 
+# IMPORTANT : 
 
 Pour pouvoir ouvrir un fichier Open Document grâce à jOpenDocument, celui-ci doit être de version « 1.2 Étendu ». 
 Pour cela, sous LibreOffice :
